@@ -65,7 +65,7 @@ This project was developed in collaboration with Janet, the Retention Manager at
 
 ## 📁 Files Included
 
-- 📄 [PhoneNow_Churn_Data.xlsx](./PhoneNow_Churn_Data.xlsx)
+- 📄 [PhoneNow_Churn_Data.xlsx](./02 Churn-Dataset.xlsx)
 - 📄 [Churn_Analysis_Dashboard.pdf](./Churn_Analysis_Dashboard.pdf)
 
 ---
